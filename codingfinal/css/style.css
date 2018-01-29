@@ -1,0 +1,74 @@
+h1{
+	color: green;
+
+}
+body{
+	font-family: "trebuchet ms", sans serif;
+	font-size:96%;
+	background-color: orange;
+}
+.form{
+	background-color: #FAFAFA;
+	padding: 10px;
+	width: 280px;
+
+}
+
+.input, 
+.textarea{
+	padding: 50px;
+	border:1px solid #F5C5C5;
+	border-radius: 5px;
+	width: 400px;
+	box-shadow: 1px 1px 2px #C0C0C0 inset;
+}
+.input[type=submit]{
+	width: 110px;
+	margin-left: 5px;
+	box-shadow: 1px 1px 1px red;
+	cursor: pointer;
+}
+
+nav{
+	background-color: black;
+}
+.li{
+	background-color: green;
+}
+
+
+div#container{
+	background-color: orange;
+
+}
+h2{
+	background-color: blue;
+}
+.btn-medium {
+    color: #999999;
+    border: 1px solid #999999;
+    padding: 10px 15px;
+    border-radius: 50px;
+    font-weight: lighter;
+    opacity: 0.6;
+}
+.message {
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    border-bottom: 1px solid rgba(220,224,244,0.4);
+}
+button{
+	padding: 10px;
+	border:1px solid #F5C5C5;
+	border-radius: 10px;
+	background-color: pink;
+	cursor: pointer;
+	position: center;
+}
+h2{
+	color:red;
+}
+
+
+	

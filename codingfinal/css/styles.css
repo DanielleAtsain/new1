@@ -1,0 +1,58 @@
+body{
+	background-color: grey;
+}
+.page{
+	width: 780px;
+	margin: auto;
+	font-family: 'Source sans Pro' Calibri, Tahoma, sans-serif;
+	font-size: 16px;
+	border-bottom: 5px solid#3388CC;
+	border-radius: 10px;
+	box-shadow: 2px 3px 4px black;
+	padding: 20px;
+background-color:white ;
+}
+.infophoto{
+	height: 250px;
+}
+.info{
+	float: left;
+}
+.photo{
+	float: right;
+}
+.section{
+	margin-buttom: 70px;
+	text-align: justify;
+}
+.section:hover{
+	color:grey;
+}
+.sec-gauche{
+	float: left;
+	font-weight: bold;
+	font-size: 20px;
+}
+.sec-droite{
+	margin-left: 150px;
+}
+h2{
+	font-size: 28px;
+	color:#338888;
+	border-bottom: 3px solid #3388DD;
+}
+.duree{
+	font-weight: normal;
+	font-style: italic;
+	font-size: 6px;
+}
+.titre{
+	font-weight: bold;
+	font-size:  35px;
+}
+#forma-gauche{
+	margin-bottom: 50px;
+}
+#sd-1{
+	margin-bottom: -15px; 
+}
